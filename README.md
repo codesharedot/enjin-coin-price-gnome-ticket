@@ -1,5 +1,8 @@
-# enjin-coin price gnome ticket 
+# enjin-coin gnome price ticker
 
-Gnome 3 desktop ticker for enjin-coin price with Python and argos. Rename to enjin-coin.1r.60s.py and put in ~/.config/argos
+Get enjin-coin price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/enjin-coin-price-gnome-ticket/](https://codesharedot.github.io/enjin-coin-price-gnome-ticket/)
 
-https://pythonbasics.org
+enjin-coin price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to enjin-coin.1r60s.py and put in ~/.config/argos
